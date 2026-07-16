@@ -1,0 +1,9 @@
+{
+    "camera_index": 0,
+    "min_detection_confidence": 0.7,
+    "min_tracking_confidence": 0.5,
+    "activation_hold_duration": 0.5,
+    "cooldown_duration": 1.5,
+    "swipe_distance": 0.11,
+    "hotkey": "F2"
+}
